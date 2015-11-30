@@ -10,7 +10,7 @@
   "author": "Steven Iseki <stevenisekimartin@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "express": "^4.7.2",
